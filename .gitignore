@@ -4,6 +4,9 @@
 #Ignore venv
 venv/
 
+# Some large datasets
+datasets/yahoo_topics_train.csv
+
 
 
 
