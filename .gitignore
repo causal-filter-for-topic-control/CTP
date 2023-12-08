@@ -9,7 +9,6 @@ datasets/yahoo_topics_train.csv
 
 
 
-
 # IntelliJ project files
 .idea
 *.iml
