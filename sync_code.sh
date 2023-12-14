@@ -2,13 +2,12 @@
 # or "./sync_code.sh" on any linux based terminal.
 
 # Switch to the right profile
-export NAME="Low Rank Causal Filters for Topic Controlled Generation"
 
 export KEY="calorf"
 export GITHUB_USER="causal.filter.for.topic.control"
 export EMAIL_ID="yourmailid+$GITHUB_USER@gmail.com"
 
-git config --local user.name '$NAME'
+git config --local user.name "Low Rank Causal Filters for Topic Controlled Generation"
 git config --local user.email  $EMAIL_ID
 
 # Add the correct key to the github account
